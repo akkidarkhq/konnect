@@ -1,7 +1,13 @@
 # konnect
-![image](https://user-images.githubusercontent.com/100999421/205995838-b9f8d505-03f5-44a9-9522-8c27e251ecf8.png)![customer reg](https://user-images.githubusercontent.com/100999421/205996087-76c0c10f-b597-4f7c-9ec5-4388ebfda29a.png)
+Home Page
+![image](https://user-images.githubusercontent.com/100999421/205995838-b9f8d505-03f5-44a9-9522-8c27e251ecf8.png)
+Customer Register Page
+![customer reg](https://user-images.githubusercontent.com/100999421/205996087-76c0c10f-b597-4f7c-9ec5-4388ebfda29a.png)
+Vendor Register Page
 ![Register Venodor](https://user-images.githubusercontent.com/100999421/205996101-7a2b0e9f-a4e1-453d-997f-afd9dc74ce91.png)
+Vendor Login Page
 ![vendor login](https://user-images.githubusercontent.com/100999421/205996104-b0fbe71e-5447-4dff-9844-9e6c2b3826bb.png)
+Customer Login Page
 ![Customer login ](https://user-images.githubusercontent.com/100999421/205996108-24773fc0-3954-4bd7-a00e-4fb57574590c.png)
 ![image](https://user-images.githubusercontent.com/100999421/205996277-4c103625-c5ce-4403-81d5-cc77515aa7f8.png)
 
