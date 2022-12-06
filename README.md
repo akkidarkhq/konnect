@@ -9,11 +9,14 @@ Vendor Login Page
 ![vendor login](https://user-images.githubusercontent.com/100999421/205996104-b0fbe71e-5447-4dff-9844-9e6c2b3826bb.png)
 Customer Login Page
 ![Customer login ](https://user-images.githubusercontent.com/100999421/205996108-24773fc0-3954-4bd7-a00e-4fb57574590c.png)
+Customer will place new bid
 ![image](https://user-images.githubusercontent.com/100999421/205996277-4c103625-c5ce-4403-81d5-cc77515aa7f8.png)
-
+Customer will Check all running Bids
 
 ![image](https://user-images.githubusercontent.com/100999421/205996320-a0827433-c912-452d-ab4b-5ada30eecef0.png)
+Customer  Will Select any one of the bid
 ![image](https://user-images.githubusercontent.com/100999421/205996354-5d8b0658-b65f-426f-ba87-db5fdc8c905f.png)
+
 ![image](https://user-images.githubusercontent.com/100999421/205996401-c6fffe7d-f9b0-4ae5-a702-0cb808a026b9.png)
 ![image](https://user-images.githubusercontent.com/100999421/205996429-6fdfab18-adea-442b-93de-4f0d0c1b84aa.png)
 ![image](https://user-images.githubusercontent.com/100999421/205996487-840a1df4-6215-4a7f-be38-4ad3797809f2.png)
